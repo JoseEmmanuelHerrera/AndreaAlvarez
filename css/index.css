@@ -55,7 +55,7 @@ h4{
 }
 
 .cara {
-  background-image: url(/img/Fondo.jpg);
+  background-image: url(../assets/img/Fondo.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -75,7 +75,7 @@ p.estilo-1::first-letter{
 }
 
 .fondo{
-  background-image: url(/img/fondo.gif);
+  background-image: url(../assets/img/fondo.gif);
   background-size: cover;
   background-repeat:repeat;
   background-position:center;
